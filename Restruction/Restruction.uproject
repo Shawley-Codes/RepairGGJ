@@ -4,10 +4,7 @@
 	"Category": "",
 	"Description": "",
 	"Enterprise": true,
-	"Plugins": [
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		}
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
